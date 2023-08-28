@@ -1,2 +1,6 @@
-# Here's where we'll put our Make commands
+greeting:
+	echo 'Kia ora tatou'
 
+directories:
+	-mkdir tmp
+	-mkdir data
